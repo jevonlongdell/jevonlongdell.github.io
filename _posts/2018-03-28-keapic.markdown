@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Tramping trip to the Takitimu mountains"
+date:   2018-03-28 14:46:26 +1300
+categories: photos tramping 
+---
+This is the neatest photo I have taken for a while. Taken on a great trip with my dad.
+
+
+![A picture of kea]({{site.baseurl}}/images/kea.jpg)
