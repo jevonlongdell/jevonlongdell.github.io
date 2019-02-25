@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Pancakes"
+date:   2019-02-25 20:55:00 +13:00
+categories: cooking
+---
+
+# Ingredients:
+
+*    250g of flour, mostly wholemeal
+*    3 eggs
+*    large dollup of olive oil
+*    big pinch of salt
+*    enough soymilk/water to make it the right consistency (c. 600ml)
+
+
+# Directions:
+
+1. Mix it all together together.
+
+2. Cook a ladleful at a time in frypan.
+
+# Notes:
+
+This is heavily modified from a recipie in ["NMAA cooks – recipes for busy mothers"](https://shop.breastfeeding.asn.au/products/recipes-for-busy-mothers/)

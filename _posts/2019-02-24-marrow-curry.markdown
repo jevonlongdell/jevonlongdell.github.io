@@ -8,6 +8,8 @@ When there is zuchini in the garden, sometime one misses getting picked. This is
 
 It's from [Hari Ghotra](https://www.harighotra.co.uk/marrow-curry-recipe)
 
+<iframe width="760" height="427" src="https://www.youtube.com/embed/D9ctRhS8Ksg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Ingredients:
 
 *    1 tbsp rapeseed oil
