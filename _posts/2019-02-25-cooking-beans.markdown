@@ -14,4 +14,5 @@ I will add things
 
 # Observations
 1. After soaking for a day in what started off as boiling water kiddney beans were well cooked, but not over cooked, after 20 min in the pressure cooker.
+2. After soaking for a day in what started off as boiling water chickpeas cooked after 18 min in the pressure cooker.
 
