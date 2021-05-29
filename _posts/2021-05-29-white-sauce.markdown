@@ -5,7 +5,7 @@ date:   2021-05-29
 categories: cooking
 ---
 
-Stolen from: https://www.mainland.co.nz/recipe/classic-cheese-sauce.html
+Stolen from [Fonterra](https://www.mainland.co.nz/recipe/classic-cheese-sauce.html), I'm sure they won't mind.
 
 ## Ingredients:
 
