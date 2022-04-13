@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Maui -- matau</title>
+</head>
+
+<body>
+    <audio id="matau" src="/sounds/matau.wav" preload="auto"></audio>
+    <audio id="maui" src="/sounds/maui.wav" preload="auto"></audio>
+    <audio id="beep" src="/sounds/beep.wav" preload="auto"></audio>
+
+    <h1> Maui - Matau</h1>
+    <form>
+        <label for="fname">Initial delay (seconds):</label><br>
+        <input type="number" id="initial_delay" name="number" min="0" max="20" value="5" step="0.1"><br>
+        <label for="lname">Percent speedup:</label><br>
+        <input type="number" id="speedup" name="lname" min="0" max="20" value="10">
+        <p><button type="button" id=startbutton" onclick="start_kemu()">Start</button>
+        <button type="button" id=stopbutton" onclick="stop_kemu()">Stop</button>
+        </p>
+    </form> 
+    <p id="status">Stopped</p>
+    <p><i> (Sounds from <a href="https://maoridictionary.co.nz/">Te Aka Māori Dictionay)</a></i></p>
+
+
+    
+    <script type="text/javascript">
+      // makes playing audio return a promise
+      function playAudio(audio){
+	  return new Promise(res=>{
+	      audio.play()
+	      audio.onended = res
+	  })
+      }
+
+      
+        var matau = document.getElementById('matau');
+        var maui = document.getElementById('maui');
+        var beep = document.getElementById('beep');
+        var running = 0;
+
+        function sleep(ms) {
+	        return new Promise(resolve => setTimeout(resolve, ms));
+        }
+      
+        function stop_kemu(){
+            document.getElementById('status').innerHTML = 'Stopped!';
+        }
+      
+        async function start_kemu() {
+            
+    
+            var delay = 1000*document.getElementById('initial_delay').valueAsNumber;
+            var speedup = document.getElementById('speedup').valueAsNumber;
+
+            document.getElementById('status').innerHTML = 'Running'
+            
+            await playAudio(beep);
+            await sleep(delay);      
+
+            while(document.getElementById('status').innerHTML == 'Running'){
+                if(Math.random()>0.5)
+		            await playAudio(matau);
+		        else
+		            await playAudio(maui);
+                await sleep(delay);
+                delay = delay*(100-speedup)/100;
+                console.log(delay);
+            }
+            document.getElementById('status').innerHTML = 'Stopped'
+        }
+    </script>
+
+</body>
+
+</html>
