@@ -25,12 +25,3 @@ categories: cooking
 4. Pour onto pie dish lined with pastry
 
 5. Bake in moderate oven (160 degC) for 30-40min, until not wobbly.
-
-
-2. Comine everything together, maybe add a bit of extra liquid
-
-3. Fry in lots of olive oil.
-
-
-
-
