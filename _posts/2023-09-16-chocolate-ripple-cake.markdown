@@ -5,11 +5,13 @@ date:   2023-09-16
 categories: cooking
 ---
 
+Because you can now buy chocolate ripple biscuts in New Aotearoa.
+
 # Ingredients:
 
 * 1 packet chocolate ripple biscuts
 * Kahalua
-* 1 small bottle cream
+* 1 small bottle of cream
 
 # Directions:
 
