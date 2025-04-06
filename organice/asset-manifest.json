@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98612606.chunk.css",
+    "main.js": "/static/js/main.a18f989e.chunk.js",
+    "main.js.map": "/static/js/main.a18f989e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.368286ea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.368286ea.js.map",
+    "static/js/2.ae8b0f37.chunk.js": "/static/js/2.ae8b0f37.chunk.js",
+    "static/js/2.ae8b0f37.chunk.js.map": "/static/js/2.ae8b0f37.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.98612606.chunk.css.map": "/static/css/main.98612606.chunk.css.map",
+    "static/js/2.ae8b0f37.chunk.js.LICENSE.txt": "/static/js/2.ae8b0f37.chunk.js.LICENSE.txt",
+    "static/media/template.css": "/static/media/Metropolis-ThinItalic.4f80c943.otf",
+    "static/media/dropbox.9d61ebe9.svg": "/static/media/dropbox.9d61ebe9.svg",
+    "static/media/gitlab.9ffaa26e.svg": "/static/media/gitlab.9ffaa26e.svg",
+    "static/media/organice.5121bc75.svg": "/static/media/organice.5121bc75.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.368286ea.js",
+    "static/js/2.ae8b0f37.chunk.js",
+    "static/css/main.98612606.chunk.css",
+    "static/js/main.a18f989e.chunk.js"
+  ]
+}
